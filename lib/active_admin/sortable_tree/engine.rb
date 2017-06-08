@@ -1,5 +1,3 @@
-require 'activeadmin'
-
 module ActiveAdmin
   module SortableTree
     class Engine < ::Rails::Engine
