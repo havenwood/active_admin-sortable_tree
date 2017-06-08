@@ -1,5 +1,4 @@
 require 'activeadmin'
-require "rubygems"
 
 module ActiveAdmin
   module SortableTree
