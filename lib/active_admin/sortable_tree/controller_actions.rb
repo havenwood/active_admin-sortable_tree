@@ -1,5 +1,6 @@
-require 'active_admin/dsl'
 require 'active_admin/resource_dsl'
+require 'active_admin/dsl'
+require 'active_admin/component'
 
 module ActiveAdmin
   module SortableTree
