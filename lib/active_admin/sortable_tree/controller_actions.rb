@@ -1,3 +1,6 @@
+require 'active_admin/dsl'
+require 'active_admin/resource_dsl'
+
 module ActiveAdmin
   module SortableTree
     module ControllerActions
